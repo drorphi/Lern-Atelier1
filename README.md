@@ -8,5 +8,5 @@
 ## 2. Tag
 ### Meine Ziele
 1. Im Modul 319 mindestens ein Mission erledigen.
-2. Mit dem Python Kurs anfangen.
-3. a
+2. Mit dem Python Kurs anfangen. min. Mission  1 fertig.
+3. Im Modul 413 weiterarbeiten.
