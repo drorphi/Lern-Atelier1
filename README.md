@@ -3,8 +3,8 @@
 1. Python Essentials 1 fertig machen
 2. Python Essentials 2 fertig machen
 
-## 1. Tag
-### Meine Ziele - 21/08/2026
+## 1. Tag - 21/08/2026
+### Meine Ziele
 1. Ich will Mission 3 des Moduls 319 fertig zu machen.
 2. Ich will die If else clause mehr verstehen.
 3. Ich will Mission 4 zu beginnen und eventuell abzuschliessen.
