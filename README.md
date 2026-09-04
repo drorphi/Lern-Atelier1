@@ -1,4 +1,8 @@
 # Lern-Atelier1
+##Meine Ziele
+1. Python Essentials 1 fertig machen
+2. Python Essentials 2 fertig machen
+
 ## 1. Tag
 ### Meine Ziele
 1. Ich will Mission 3 des Moduls 319 fertig zu machen.
