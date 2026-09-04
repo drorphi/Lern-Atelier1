@@ -18,5 +18,5 @@
 ## 3. Tag
 ### Meine Ziele
 1. In Python folgendes mit der Network Academy lernen Boolean Values, Conditional Execution, Loops, Lists and List Processing, Logical and Bitwise Operations
-2. LA_431_1715_Checkliste_anwenden machen
+2. Python Essentials 1, Modul 2 Test machen
 3. PAP für LA_319_0601_InterprationTest machen
