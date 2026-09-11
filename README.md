@@ -25,4 +25,4 @@
 ### Meine Ziele
 1. PE1: Module 3. Boolean Values, Conditional Execution, Loops, Lists and List Processing, Logical and Bitwise Operations
 2. Neovim nutzen lernen
-3. IdeaVim nutzen in IntelliJ Idea für Coden.
+3. IdeaVim als Standard nutzen in IntelliJ Idea für Coden.
